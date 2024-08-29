@@ -1,7 +1,7 @@
-public class test_solution {
+public class test_SolutionTwoSum {
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        SolutionTwoSum solution = new SolutionTwoSum();
 
         // Prueba / test 1
         int[] nums1 = { 2, 7, 11, 15 };
